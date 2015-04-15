@@ -1,0 +1,3 @@
+[submodule "lib/Opauth/Strategy/Crozdesk"]
+	path = lib/Opauth/Strategy/Crozdesk
+	url = https://github.com/crozdesk/opauth-crozdesk
